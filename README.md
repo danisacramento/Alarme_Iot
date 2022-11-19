@@ -1,8 +1,17 @@
-# Alarme_Iot  (em desenvolvimento)
+# Braço robótico monitorado por alarme Iot 
 
-# Sobre o projeto
+# Descrição do projeto
 
-Descrição do projeto
+# Software desenvolvido e a documentação do código
+
+# Descrição do hardware e plataforma de desenvolvimento utilizada 
+
+
+# Documentação das interfaces, protocolos e módulos de comunicação.
+
+ O projeto deve possuir comunicação/controle via internet (TCP/IP) e uso do Protocolo MQTT.
+
+---------------------------------------------------
 
 # Tecnologias utilizadas
 - C++
