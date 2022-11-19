@@ -5,7 +5,8 @@
 # Software desenvolvido e a documentação do código
 
 # Descrição do hardware e plataforma de desenvolvimento utilizada 
-
+-[X]VVFF
+-[X]XXXXX
 
 # Documentação das interfaces, protocolos e módulos de comunicação.
 
