@@ -1,5 +1,5 @@
 # Braço robótico monitorado por alarme Iot 
-O presente projeto consiste na montagem e programação de um braço robótico pré-fabricado, que será utilizado para simular uma máquina industrial que realiza movimentos repetitivos, monitorado por um sistema de alarme. Para tanto, realizei o posicionamento automático do braço ao definir funções e atribuí-las para servo motores. Além disso, irei incluir um sistema de alarme que envia e recebe dados por meio do protocolo MQTT. 
+O presente projeto, da disciplina Objetos Inteligentes Conectados, consiste na montagem e programação de um braço robótico pré-fabricado, que será utilizado para simular uma máquina industrial que realiza movimentos repetitivos, monitorado por um sistema de alarme. Para tanto, realizei o posicionamento automático do braço ao definir funções e atribuí-las para servo motores. Além disso, irei incluir um sistema de alarme que envia e recebe dados por meio do protocolo MQTT. 
 
 # Software desenvolvido e a documentação do código
 
