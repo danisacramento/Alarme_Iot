@@ -5,7 +5,7 @@
 # Software desenvolvido e a documentação do código
 
 # Descrição do hardware e plataforma de desenvolvimento utilizada 
--[X] Arduino IDE (ambiente de desenvolvimento) - link para download: https://www.arduino.cc/en/software;
+[x] Arduino IDE (ambiente de desenvolvimento) - link para download: https://www.arduino.cc/en/software;
 -[X] 1 buzzer Ativo 5v;
 -[X] 10 jumpers macho/femea e 5 jumpers macho/macho;
 -[X] 1 kit com braço robótico em acrílico, 4 servos 9g e 1 kit de parafusos para montagem (encontrado facilmente para venda pela internet);
