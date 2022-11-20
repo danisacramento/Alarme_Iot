@@ -6,14 +6,19 @@
 
 # Descrição do hardware e plataforma de desenvolvimento utilizada 
 [x] Arduino IDE (ambiente de desenvolvimento) - link para download: https://www.arduino.cc/en/software;
--[X] 1 buzzer Ativo 5v;
--[X] 10 jumpers macho/femea e 5 jumpers macho/macho;
--[X] 1 kit com braço robótico em acrílico, 4 servos 9g e 1 kit de parafusos para montagem (encontrado facilmente para venda pela internet);
--[X] 1 led 5mm vermelho;
--[X] 1 placa de desemvolvimento NodeMCU(ESP8266);
--[X] 1 protoboard de pelo menos 400 pontos;
--[X] 1 sensor de distância ultrassônico HC-SR04;
--[X] 1 resistor 1K 1/4W
+- [X] 1 buzzer Ativo 5v;
+- [X] 10 jumpers macho/femea e 5 jumpers macho/macho;
+- [X] 1 kit com braço robótico em acrílico, 4 servos 9g e 1 kit de parafusos para montagem (encontrado facilmente para venda pela internet);
+- [X] 1 led 5mm vermelho;
+- [X] 1 placa de desemvolvimento NodeMCU(ESP8266);
+- [X] 1 protoboard de pelo menos 400 pontos;
+- [X] 1 sensor de distância ultrassônico HC-SR04;
+- [X] 1 resistor 1K 1/4W
+
+- [X] Java
+- [X] Spring Boot
+- [X] JPA / Hibernate
+- [X] Maven
 
 # Documentação das interfaces, protocolos e módulos de comunicação.
 
