@@ -1,5 +1,5 @@
-# Braço robótico monitorado por alarme Iot 
-O presente projeto, da disciplina Objetos Inteligentes Conectados, consiste na montagem e programação de um braço robótico pré-fabricado, utilizado para simular uma máquina industrial que realiza movimentos repetitivos, monitorado por um sistema de alarme. Para tanto, realizei o posicionamento automático do braço ao definir funções e atribuí-las para servo motores. Além disso, inclui um sistema de alarme que envia e recebe dados por meio do protocolo MQTT. 
+# Braço robótico monitorado por alarme 
+O presente projeto, da disciplina Objetos Inteligentes Conectados, consiste na montagem e programação de um braço robótico pré-fabricado, utilizado para simular uma máquina industrial que realiza movimentos repetitivos, monitorado por um sistema de alarme. Para tanto, um módulo ESP8266 NodeMCU, conectado a um modem wifi, que acessa um broker HiveMQ, por protocolo MQTT, e interage com o aplicativo mobile "MQTT Dashboard", que exibe em um painel gráfico as informações de estado do alarme(normal/disparado), de distância de quem se aproxima do braço robótico e possibilita ligar ou desligar um led de alerta pelo celular. 
 
 ### modelo de montagem Fritzing:
 ![image](https://user-images.githubusercontent.com/57760392/202878216-be96d332-ce7f-4495-ad93-3b25705fe681.png)
