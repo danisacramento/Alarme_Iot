@@ -21,6 +21,7 @@ utiliza um sensor ultrassônico que fara o monitoramento de quem se aproxima do 
 
 # Documentação das interfaces, protocolos e módulos de comunicação.
 
- O projeto deve possuir comunicação/controle via internet (TCP/IP) e uso do Protocolo MQTT.
+ Documentação do protocolo MQTT: https://mqtt.org/
+ 
 
 
