@@ -6,7 +6,7 @@ O presente projeto, da disciplina Objetos Inteligentes Conectados, consiste na m
 
 # Software desenvolvido e a documentação do código
 O software desenvolvido com o uso da IDE Arduino, 
-Ademais, será feito o uso de um sensor ultrassônico que fara o monitoramento de quem se aproxima do braço robótico. Caso seja ultrapassado o limite de segurança fictício de 30 cm, automaticamente será acionado um alarme (buzzer ativo). 
+utiliza um sensor ultrassônico que fara o monitoramento de quem se aproxima do braço robótico. Caso seja ultrapassado o limite de segurança fictício de 30 cm, automaticamente será acionado um alarme (buzzer ativo). 
 
 # Descrição do hardware e plataforma de desenvolvimento utilizada
 - [X] Arduino IDE (ambiente de desenvolvimento) - link para download: https://www.arduino.cc/en/software;
