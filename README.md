@@ -26,7 +26,7 @@ git clone https://github.com/danisacramento/Alarme_Iot.git
 
 # Documentação das interfaces, protocolos e módulos de comunicação
 
- Documentação do protocolo MQTT: https://mqtt.org/;
- Documentação do NodeMCU(Esp8266): https://circuits4you.com/2017/12/31/nodemcu-pinout/;
- Opção para download do aplicativo "MQTT Dashboard" (pode ser substituído por aplicativo similar, da sua preferência): https://play.google.com/store/apps/details?id=com.app.vetru.mqttdashboard&hl=pt_BR&gl=US;
-
+ - Documentação do protocolo MQTT: https://mqtt.org/;
+ - Documentação do NodeMCU(Esp8266): https://circuits4you.com/2017/12/31/nodemcu-pinout/;
+ - Opção para download do aplicativo "MQTT Dashboard" (pode ser substituído por aplicativo similar, da sua preferência): https://play.google.com/store/apps/details?id=com.app.vetru.mqttdashboard&hl=pt_BR&gl=US;
+ - Documentação do Nod-RED: https://nodered.org/.
